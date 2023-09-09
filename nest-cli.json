@@ -1,11 +1,11 @@
 {
   "$schema": "https://json.schemastore.org/nest-cli",
   "collection": "@nestjs/schematics",
-  "sourceRoot": "apps/sumi/src",
+  "sourceRoot": "apps/skytree/src",
   "compilerOptions": {
     "deleteOutDir": true,
     "webpack": true,
-    "tsConfigPath": "apps/sumi/tsconfig.app.json"
+    "tsConfigPath": "apps/skytree/tsconfig.app.json"
   },
   "monorepo": true,
   "root": "apps/skytree",
